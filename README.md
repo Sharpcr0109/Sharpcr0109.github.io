@@ -27,9 +27,9 @@ Graduating in 12/2022
     
     Under Agile Framework, XPlore UCSD project is an app that can help tourists in UCSD to plan their visits on campus and can direct them to certain landmarks.         
 
-    *[Checkout XPloreUCSD on App Store](https://apple.co/31RMWDK)*
+    > *[Checkout XPloreUCSD on App Store](https://apple.co/31RMWDK)*
     
-    *[Checkout XPloreUCSD on Google Play Store](https://bit.ly/XploreUCSD)*
+    > *[Checkout XPloreUCSD on Google Play Store](https://bit.ly/XploreUCSD)*
     
     
     Using `SwiftUI` / `Android Studio`, I implemented:
@@ -53,19 +53,43 @@ Graduating in 12/2022
     
     
 
-## Favourite Language: 
+## Technical Skills: 
+- **C++**
 ```markdown
-
+#include <iostream>
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Python**
+```markdown
+print("Hello World")
+```
 
-### Jekyll Themes
+- **Java**
+```markdown
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
+    }
+}
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SOLar23333/SOLar23333.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **XCode** 
+![XCode](https://3d.bk.tudelft.nl/ken/img/blog/xcode-logo.jpg)
 
-### Support or Contact
+- **Android Studio
+![Android Studio](https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=800)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## Hobbies
+
+- Swimming
+- Badminton
+- Movies
+- Cooking 
 
 
