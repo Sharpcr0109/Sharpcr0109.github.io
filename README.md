@@ -54,7 +54,7 @@ Graduating in 12/2022
     
 
 ## Technical Skills: 
-- **C++**
+- [x] C++
 ```markdown
 #include <iostream>
 int main() {
@@ -63,12 +63,12 @@ int main() {
 }
 ```
 
-- **Python**
+- [x] Python
 ```markdown
 print("Hello World")
 ```
 
-- **Java**
+- [x] Java
 ```markdown
 public class Main {
     public static void main(String[] args) {
@@ -77,13 +77,15 @@ public class Main {
 }
 ```
 
-- **XCode** 
+- [x] XCode
 ![XCode](https://3d.bk.tudelft.nl/ken/img/blog/xcode-logo.jpg)
 
-- **Android Studio
+- [x] Android Studio
 ![Android Studio](https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=800)
 
+- [ ] JavaScript, HTML, CSS....
 
+oops, still learning, not yet there...
 
 ## Hobbies
 
