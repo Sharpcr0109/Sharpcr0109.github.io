@@ -1,5 +1,7 @@
 # Rui Cai's GitHub Userpage
 
+[REDEME file for this page!](README)
+
 ## Education Background
 
 **University of California, San Diego**
