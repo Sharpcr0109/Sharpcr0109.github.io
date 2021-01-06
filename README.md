@@ -43,6 +43,11 @@ Graduating in 12/2022
     - Resolve students' problems and clear their confusion during
       tutor hours.
     - Prepare core course materials for students to preview before lectures.
+    
+    
+    
+## Coursework
+
 
 ```markdown
 Syntax highlighted code block
